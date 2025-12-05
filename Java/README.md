@@ -18,5 +18,5 @@ All code was originally written using online compilers and organized here for cl
   (e.g., enqueue, dequeue, front, rear)
 - Multiple applications of Queues are implemented
 
-- **4. Array Implementation**
+**4. Array Implementation**
 - Multiple applications of array are implemented
