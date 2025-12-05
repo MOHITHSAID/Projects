@@ -17,3 +17,6 @@ All code was originally written using online compilers and organized here for cl
 - Separate files demonstrating single operations  
   (e.g., enqueue, dequeue, front, rear)
 - Multiple applications of Queues are implemented
+
+- **4. Array Implementation**
+- Multiple applications of array are implemented
